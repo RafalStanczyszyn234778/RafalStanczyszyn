@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+paddleocr
+tensorflow>=2.9.0
